@@ -27,11 +27,7 @@ You will be given a dataset of 800 rows for the prediction algorithm training an
 
 # Problem
 
-The **purpose of this project** is to classify images from a test dataset into three different classes/labels according to which sport correspond. A training set of labelled images is provided. Organisation set two main goals:
-
-1. Increase samples of images for training.
-
-2. F1-score macro for the predictions.
+The **purpose of this project** is to ....
 
 Evaluation will be based on the f1_score from predictions of the dataset and the groundtruth (900), code quality (200) and documentation (100). (maximum puntuation 1200).
 
@@ -42,6 +38,28 @@ Evaluation will be based on the f1_score from predictions of the dataset and the
 # Solution
 
 # License
+
+The MIT License (MIT)
+
+Copyright (c) 2022-2026 Marc Humet
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 
 
@@ -98,7 +116,7 @@ Project was completed and submitted for competition in 23rd of September 2022.
 The [best model as json file](https://github.com/MarkusHumetus/Image_sports_classification/blob/main/Im%C3%A1genes-data-science-ii/output/Xception_pretrained_aug.json) and its [wheigts as h5 file](https://github.com/MarkusHumetus/Image_sports_classification/blob/main/Im%C3%A1genes-data-science-ii/output/Xception_pretrained_aug.h5)  are uploaded on this repository. In the [notebook](https://github.com/MarkusHumetus/Image_sports_classification/blob/main/main_Notebook.ipynb), there is plenty of examples, how it can be loaded and tested with the test data.
 Predictions of test images were stored in the file [predictions.csv](https://github.com/MarkusHumetus/Image_sports_classification/blob/main/predictions.csv)
 
-## Contact
+# Contact
 
 If you have any comment, doubt, proposal,... don't hesitate to contact me by email to marc.humet.datascience@gmail.com
 
@@ -129,7 +147,7 @@ Para PUNTUAR las PREDICCIONES el repositorio entregado tiene que tener un archiv
 predictions.json con este formato
 
 
-## Acknowledgments
+# Acknowledgments
 
 Thanks to the following organisations for the set up of such event which give the junior data scientist oportunities to learn, do networking and hopefully reach a first job in the data field.
 
