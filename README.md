@@ -27,7 +27,7 @@ You will be given a dataset of 800 rows for the prediction algorithm training an
 
 # Problem
 
-The **purpose of this project** is to ....
+The **purpose of this project** is to determine the level of parental education starting from some knowdlege of students: performance in three test(math, reading and writing), sex, whether they do a preparation exam course or not and whether they have support on the lunch payment.
 
 Evaluation will be based on the f1_score from predictions of the dataset and the groundtruth (900), code quality (200) and documentation (100). (maximum puntuation 1200).
 
